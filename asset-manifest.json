@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SimpliLearn/static/css/main.d91511bd.chunk.css",
+    "main.js": "/SimpliLearn/static/js/main.1587ba0a.chunk.js",
+    "main.js.map": "/SimpliLearn/static/js/main.1587ba0a.chunk.js.map",
+    "runtime-main.js": "/SimpliLearn/static/js/runtime-main.5a7d8837.js",
+    "runtime-main.js.map": "/SimpliLearn/static/js/runtime-main.5a7d8837.js.map",
+    "static/css/2.818011ed.chunk.css": "/SimpliLearn/static/css/2.818011ed.chunk.css",
+    "static/js/2.ae6ac9b2.chunk.js": "/SimpliLearn/static/js/2.ae6ac9b2.chunk.js",
+    "static/js/2.ae6ac9b2.chunk.js.map": "/SimpliLearn/static/js/2.ae6ac9b2.chunk.js.map",
+    "static/js/3.76224a54.chunk.js": "/SimpliLearn/static/js/3.76224a54.chunk.js",
+    "static/js/3.76224a54.chunk.js.map": "/SimpliLearn/static/js/3.76224a54.chunk.js.map",
+    "index.html": "/SimpliLearn/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/SimpliLearn/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.d91511bd.chunk.css.map": "/SimpliLearn/static/css/main.d91511bd.chunk.css.map",
+    "static/js/2.ae6ac9b2.chunk.js.LICENSE.txt": "/SimpliLearn/static/js/2.ae6ac9b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SimpliLearn/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7d8837.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.ae6ac9b2.chunk.js",
+    "static/css/main.d91511bd.chunk.css",
+    "static/js/main.1587ba0a.chunk.js"
+  ]
+}
