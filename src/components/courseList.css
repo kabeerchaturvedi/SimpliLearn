@@ -1,0 +1,23 @@
+.main-div {
+  display: flex;
+  align-items: center;
+
+  flex-wrap: wrap;
+}
+.img-div {
+  width: 30%;
+}
+.card-div {
+  width: 33%;
+  padding: 10px 15px;
+
+  box-sizing: border-box;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex: 0 1 24%;
+  height: 450px;
+  padding: 0 15px;
+}
